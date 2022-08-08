@@ -2,7 +2,7 @@
 
 I used integrative computational analyses of omics data types to answer biological questions about cell fate and gene regulation in brain development and  brain cancer. I care about bioinformatics research that emphasizes reproducibility and transparency. :dna: :microscope: :computer: :woman_technologist:
 
-Find my papers on [Google Scholar ](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en) and my profile on [LinkedIn](www.linkedin.com/in/selinjessa).
+Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en).
 
 __Here are my key research projects:__
 
