@@ -25,7 +25,7 @@ cell types and their expression patterns and dynamics.
 -  Associated publication: [Jessa et al, Nature Genetics, 2019](https://doi.org/10.1038/s41588-019-0531-7)
 - :package: [`cytobox`](https://fungenomics.github.io/cytobox/), R package for scRNAseq data visualization
 - [`braindex`](http://cc-shiny-01.functionalgenomics.ca/braindex/clusters/), custom interactive data portal implemented in R Shiny
-- [`braindex` source code](https://github.com/fungenomics/braindex/tree/master/clusters)
+- [`braindex` source code](https://github.com/fungenomics/braindex)
 
 ### A data-driven approach to identify the cell-of-origin in pediatric brain tumors
 
