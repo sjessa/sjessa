@@ -1,9 +1,8 @@
-### 👋 Hi, I'm Selin, a computational biologist wrapping up my PhD in Spring 2023 and looking for my next role
+### :woman_technologist: Hi, I'm Selin, a computational biologist wrapping up my PhD in Spring 2023 and looking for my next role
 
-I used integrative computational analyses of omics data types to answer biological questions about cell identity, cell fate, and gene regulation in brain development and  brain cancer. I care about bioinformatics research that emphasizes reproducibility, transparency, and reusability.  
-:dna: :microscope: :computer: :woman_technologist:
-
-Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en).
+- :microscope: I use integrative computational analyses of omics data types to answer biological questions about cell identity, cell fate, and gene regulation in brain development and  brain cancer
+- :dna: I care about bioinformatics research that emphasizes reproducibility, transparency, and reusability
+- :book: Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en)
 
 __Here are my key research projects:__
 
