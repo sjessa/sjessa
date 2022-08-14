@@ -8,7 +8,7 @@ __Here are my key research projects:__
 
 ### A single-cell RNAseq atlas for the developing mouse forebrain and brainstem 
 
-We assembled a reference dataset of >100k cells from nine timepoints in the developing mouse brain to profile
+We assembled a scRNAseq reference dataset of >100k cells from nine timepoints in the developing mouse brain to profile
 cell types and their expression patterns and dynamics.
 
 -  Associated publication: [Jessa et al, Nature Genetics, 2019](https://doi.org/10.1038/s41588-019-0531-7)
@@ -18,7 +18,7 @@ cell types and their expression patterns and dynamics.
 
 ### A data-driven approach to identify the cell-of-origin in pediatric brain tumors
 
-Leveraging our brain reference atlas, we designed approaches to computationally integrate primary patient tumor NGS data with 
+Leveraging our brain reference atlas, we designed approaches to computationally integrate primary patient tumor omics data (scRNAseq, scATACseq, bulk RNAseq, ChIPseq, HiC) with 
 the atlas in order to identify, for each subtype of pediatric brain tumors, their most likely cell-of-origin.
 
 - Associated publications:
@@ -31,7 +31,7 @@ the atlas in order to identify, for each subtype of pediatric brain tumors, thei
 ### `chromswitch`, an R package to detect chromatin state switches from epigenomic data
 
 chromswitch implements a flexible method to detect chromatin state switches between samples
-in two biological conditions in a specific genomic region of interest given peaks or chromatin state calls from ChIP-seq data.
+in two biological conditions in a specific genomic region of interest given peaks or chromatin state calls from ChIPseq data.
 
 - Associated publication: [Jessa and Kleinman, Bioinformatics, 2019](https://academic.oup.com/bioinformatics/article/34/13/2286/4846890?login=false)
 - :package: [Bioconductor package](https://www.bioconductor.org/packages/release/bioc/html/chromswitch.html)
