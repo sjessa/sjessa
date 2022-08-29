@@ -1,8 +1,8 @@
 ### :woman_technologist: Hi, I'm Selin, a computational biologist wrapping up my PhD in Spring 2023 and looking for my next role
 
 - :microscope: I use integrative computational analyses of omics data types to answer biological questions about cell identity, cell fate, and gene regulation in brain development and  brain cancer
-- :dna: I care about bioinformatics research that emphasizes reproducibility, transparency, and reusability
-- :book: Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en)
+- :dna: I care about bioinformatics research that emphasizes [reproducibility](https://github.com/sjessa/rr), [transparency](https://github.com/fungenomics/G34-gliomas), and [reusability](https://zenodo.org/record/6929428#.YwzUIi8r1pR)
+- :book: Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en) and find me on [LinkedIn](https://www.linkedin.com/in/selinjessa/)
 
 __Here are my key research projects:__
 
