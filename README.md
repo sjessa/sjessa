@@ -11,7 +11,7 @@ __Here are my key research projects:__
 We assembled a scRNAseq reference dataset of >100k cells from nine timepoints in the developing mouse brain to profile
 cell types and their expression patterns and dynamics.
 
--  Associated publication: [Jessa et al, Nature Genetics, 2019](https://doi.org/10.1038/s41588-019-0531-7)
+-  Associated publication: [Stalled developmental programs at the root of pediatric brain tumors, Jessa et al, Nature Genetics, 2019](https://doi.org/10.1038/s41588-019-0531-7)
 - :package: [`cytobox`](https://fungenomics.github.io/cytobox/), R package for scRNAseq data visualization
 - [`braindex`](http://cc-shiny-01.functionalgenomics.ca/braindex/clusters/), custom interactive data portal implemented in R Shiny
 - [`braindex` source code](https://github.com/fungenomics/braindex)
@@ -22,8 +22,8 @@ Leveraging our brain reference atlas, we designed approaches to computationally 
 the atlas in order to identify, for each subtype of pediatric brain tumors, their most likely cell-of-origin.
 
 - Associated publications:
-  - [Jessa et al, Nature Genetics, 2019](https://doi.org/10.1038/s41588-019-0531-7)
-  - [Chen*, Deshmukh*, Jessa* et al, Cell, 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31529-4)
+  - [Stalled developmental programs at the root of pediatric brain tumors, Jessa et al, Nature Genetics, 2019](https://doi.org/10.1038/s41588-019-0531-7)
+  - [Histone H3.3G34-mutant interneuron progenitors co-opt PDGFRA for gliomagenesis, Chen*, Deshmukh*, Jessa* et al, Cell, 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31529-4)
   - Jessa*, Mohammadnia*, Harutyunyan*, et al, Nature Genetics (accepted) on high-grade gliomas
 - [Reproducible analysis](https://fungenomics.github.io/G34-gliomas/) for my contributions to the Chen et al study
 - [Reproducible analysis](https://github.com/fungenomics/HGG-oncohistones) for our forthcoming study on high-grade gliomas
@@ -33,7 +33,7 @@ the atlas in order to identify, for each subtype of pediatric brain tumors, thei
 chromswitch implements a flexible method to detect chromatin state switches between samples
 in two biological conditions in a specific genomic region of interest given peaks or chromatin state calls from ChIPseq data.
 
-- Associated publication: [Jessa and Kleinman, Bioinformatics, 2019](https://academic.oup.com/bioinformatics/article/34/13/2286/4846890?login=false)
+- Associated publication: [chromswitch: a flexible method to detect chromatin state switches, Jessa and Kleinman, Bioinformatics, 2019](https://academic.oup.com/bioinformatics/article/34/13/2286/4846890?login=false)
 - :package: [Bioconductor package](https://www.bioconductor.org/packages/release/bioc/html/chromswitch.html)
 - [`chromswitch` source code](https://github.com/sjessa/chromswitch)
 - [Reproducible analysis](https://sjessa.github.io/chromswitch-analysis/) using R Markdown
