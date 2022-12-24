@@ -5,7 +5,7 @@
 - :dna: I care about bioinformatics/computational biology research that emphasizes [reproducibility](https://github.com/sjessa/rr), [transparency](https://github.com/fungenomics/G34-gliomas), and [reusability](https://zenodo.org/record/6929428#.YwzUIi8r1pR)
 - :book: Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en) and find me on [LinkedIn](https://www.linkedin.com/in/selinjessa/)
 
-__Here are my key research projects:__
+__Here are the key research projects I worked on during my PhD:__
 
 ### A single-cell RNAseq atlas for the developing mouse forebrain and brainstem 
 
@@ -27,16 +27,4 @@ the atlas in order to identify, for each subtype of pediatric brain tumors, thei
   - [Histone H3.3G34-mutant interneuron progenitors co-opt PDGFRA for gliomagenesis, Chen*, Deshmukh*, Jessa* et al, Cell, 2020](https://www.cell.com/cell/fulltext/S0092-8674(20)31529-4)
   - [K27M in canonical and noncanonical H3 variants occurs in distinct oligodendroglial cell lineages in brain midline gliomas, Jessa*, Mohammadnia*, Harutyunyan*, et al, Nature Genetics, 2022](https://www.nature.com/articles/s41588-022-01205-w#Abs1)
 - [Reproducible analysis](https://fungenomics.github.io/G34-gliomas/) for my contributions to the Chen et al study
-- [Reproducible analysis](https://github.com/fungenomics/HGG-oncohistones) for the H3K27M gliomas study
-
-### `chromswitch`, an R package to detect chromatin state switches from epigenomic data
-
-chromswitch implements a flexible method to detect chromatin state switches between samples
-in two biological conditions in a specific genomic region of interest given peaks or chromatin state calls from ChIPseq data.
-
-- Associated publication: [chromswitch: a flexible method to detect chromatin state switches, Jessa and Kleinman, Bioinformatics, 2019](https://academic.oup.com/bioinformatics/article/34/13/2286/4846890?login=false)
-- :package: [Bioconductor package](https://www.bioconductor.org/packages/release/bioc/html/chromswitch.html)
-- [`chromswitch` source code](https://github.com/sjessa/chromswitch)
-- [Reproducible analysis](https://sjessa.github.io/chromswitch-analysis/) using R Markdown
-
-<img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+- [Reproducible analysis](https://github.com/fungenomics/HGG-oncohistones) for the H3K27M gliomas stud
