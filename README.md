@@ -1,4 +1,4 @@
-### :woman_technologist: Hi, I'm Selin, a computational biologist wrapping up my PhD in Spring 2023 and looking for my next role
+### :woman_technologist: Hi, I'm Selin, a computational biologist wrapping up my PhD in Spring 2023
 
 - I'm finishing my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) in [Dr. Claudia Kleinman's lab](https://functionalgenomics.ca/) at McGill University & the Lady Davis Institute for Medical Research
 - :microscope: I use integrative computational analyses of omics data types to answer biological questions about cell identity, cell fate, and gene regulation in brain development and  brain cancer
