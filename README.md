@@ -1,7 +1,7 @@
-### :woman_technologist: Hi, I'm Selin, a computational biologist wrapping up my PhD in Spring 2023
+### :woman_technologist: Hi, I'm Selin, a computational biologist and post-doctoral scientist
 
-- I'm finishing my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) in [Dr. Claudia Kleinman's lab](https://functionalgenomics.ca/) at McGill University & the Lady Davis Institute for Medical Research
-- :microscope: I use integrative computational analyses of omics data types to answer biological questions about cell identity, cell fate, and gene regulation in brain development and  brain cancer
+- I'm a post-doc based jointly in [Dr. Anshul Kundaje's lab](https://kundajelab.stanford.edu) and [Dr. Will Greenleaf's lab](https://greenleaf.stanford.edu) in the Department of Genetics at Stanford University
+- I did my PhD in [Quantitative Life Sciences](https://www.mcgill.ca/qls/) in [Dr. Claudia Kleinman's lab](https://functionalgenomics.ca/) at McGill University, where I used integrative computational analyses of omics data types to answer biological questions about cell identity, cell fate, and gene regulation in brain development and  brain cancer
 - :dna: I care about bioinformatics/computational biology research that emphasizes [reproducibility](https://github.com/sjessa/rr), [transparency](https://github.com/fungenomics/G34-gliomas), and [reusability](https://zenodo.org/record/6929428#.YwzUIi8r1pR)
 - :book: Find my papers on [Google Scholar](https://scholar.google.ca/citations?user=rkcx2NwAAAAJ&hl=en) and find me on [LinkedIn](https://www.linkedin.com/in/selinjessa/)
 
