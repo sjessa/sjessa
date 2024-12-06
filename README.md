@@ -27,5 +27,5 @@ the atlas in order to identify, for each subtype of pediatric brain tumors, thei
   - [`G34-gliomas`](https://fungenomics.github.io/G34-gliomas/), the code & analysis for my contributions to the Chen et al study
 - [K27M in canonical and noncanonical H3 variants occurs in distinct oligodendroglial cell lineages in brain midline gliomas](https://www.nature.com/articles/s41588-022-01205-w#Abs1), Jessa*, Mohammadnia*, Harutyunyan*, et al, Nature Genetics, 2022
   - [`HGG-oncohistones`](https://github.com/fungenomics/HGG-oncohistones), the the code & analysis for the H3K27M gliomas study
-- [FOXR2 targets LHX6+/DLX+ neural lineages to drive CNS neuroblastoma], Jessa*, De Cola*, Chandarana*, et al, Cancer Research, 2024
+- [FOXR2 targets LHX6+/DLX+ neural lineages to drive CNS neuroblastoma](https://aacrjournals.org/cancerres/article/doi/10.1158/0008-5472.CAN-24-2248/749689/FOXR2-targets-LHX6-DLX-neural-lineages-to-drive), Jessa*, De Cola*, Chandarana*, et al, Cancer Research, 2024
   - [`NB-FOXR2`](https://github.com/fungenomics/NB-FOXR2), the the code & analysis for the FOXR2+ neuroblastoma study
